@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\trinh\\Desktop\\bot\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\trinh\\Desktop\\bot\\runBot.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:runBot.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\trinh\\Desktop\\bot\\role_class.py||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:role_class.py||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\trinh\\Desktop\\bot\\sheets.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:sheets.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\trinh\\Desktop\\bot\\bang_chien.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:bang_chien.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\trinh\\Desktop\\bot\\kick_mem.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:kick_mem.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\trinh\\Desktop\\bot\\poll Bang Chi\u1EBFn.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:poll Bang Chi\u1EBFn.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\trinh\\Desktop\\bot\\discord_id.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:discord_id.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\trinh\\Desktop\\bot\\discord_id.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:discord_id.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\trinh\\AppData\\Local\\Temp\\CopilotBaseline\\40bce8ae\\~bang_chien.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\trinh\\Desktop\\bot\\bangchien_state.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:bangchien_state.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "sheets.py",
+              "DocumentMoniker": "C:\\Users\\trinh\\Desktop\\bot\\sheets.py",
+              "RelativeDocumentMoniker": "sheets.py",
+              "ToolTip": "C:\\Users\\trinh\\Desktop\\bot\\sheets.py",
+              "RelativeToolTip": "sheets.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-08-27T17:46:17.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "kick_mem.py",
+              "DocumentMoniker": "C:\\Users\\trinh\\Desktop\\bot\\kick_mem.py",
+              "RelativeDocumentMoniker": "kick_mem.py",
+              "ToolTip": "C:\\Users\\trinh\\Desktop\\bot\\kick_mem.py",
+              "RelativeToolTip": "kick_mem.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-08-26T18:24:55.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "poll Bang Chi\u1EBFn.txt",
+              "DocumentMoniker": "C:\\Users\\trinh\\Desktop\\bot\\poll Bang Chi\u1EBFn.txt",
+              "RelativeDocumentMoniker": "poll Bang Chi\u1EBFn.txt",
+              "ToolTip": "C:\\Users\\trinh\\Desktop\\bot\\poll Bang Chi\u1EBFn.txt",
+              "RelativeToolTip": "poll Bang Chi\u1EBFn.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-08-26T18:24:52.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "role_class.py",
+              "DocumentMoniker": "C:\\Users\\trinh\\Desktop\\bot\\role_class.py",
+              "RelativeDocumentMoniker": "role_class.py",
+              "ToolTip": "C:\\Users\\trinh\\Desktop\\bot\\role_class.py",
+              "RelativeToolTip": "role_class.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-08-26T11:33:04.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "discord_id.py",
+              "DocumentMoniker": "C:\\Users\\trinh\\Desktop\\bot\\discord_id.py",
+              "RelativeDocumentMoniker": "discord_id.py",
+              "ToolTip": "C:\\Users\\trinh\\Desktop\\bot\\discord_id.py",
+              "RelativeToolTip": "discord_id.py",
+              "ViewState": "AgIAAFgBAAAAAAAAAAAcwF4BAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-08-26T11:27:57.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "discord_id.txt",
+              "DocumentMoniker": "C:\\Users\\trinh\\Desktop\\bot\\discord_id.txt",
+              "RelativeDocumentMoniker": "discord_id.txt",
+              "ToolTip": "C:\\Users\\trinh\\Desktop\\bot\\discord_id.txt",
+              "RelativeToolTip": "discord_id.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-08-26T06:40:47.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "bang_chien.py",
+              "DocumentMoniker": "C:\\Users\\trinh\\Desktop\\bot\\bang_chien.py",
+              "RelativeDocumentMoniker": "bang_chien.py",
+              "ToolTip": "C:\\Users\\trinh\\Desktop\\bot\\bang_chien.py",
+              "RelativeToolTip": "bang_chien.py",
+              "ViewState": "AgIAAMYRAAAAAAAAAADwv9QRAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-08-25T19:30:33.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "~bang_chien.py",
+              "DocumentMoniker": "C:\\Users\\trinh\\AppData\\Local\\Temp\\CopilotBaseline\\40bce8ae\\~bang_chien.py",
+              "RelativeDocumentMoniker": "..\\..\\AppData\\Local\\Temp\\CopilotBaseline\\40bce8ae\\~bang_chien.py",
+              "ToolTip": "C:\\Users\\trinh\\AppData\\Local\\Temp\\CopilotBaseline\\40bce8ae\\~bang_chien.py",
+              "RelativeToolTip": "..\\..\\AppData\\Local\\Temp\\CopilotBaseline\\40bce8ae\\~bang_chien.py",
+              "ViewState": "AgIAAMMTAAAAAAAAAAAIwOkTAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-08-25T18:11:34.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "bangchien_state.json",
+              "DocumentMoniker": "C:\\Users\\trinh\\Desktop\\bot\\bangchien_state.json",
+              "RelativeDocumentMoniker": "bangchien_state.json",
+              "ToolTip": "C:\\Users\\trinh\\Desktop\\bot\\bangchien_state.json",
+              "RelativeToolTip": "bangchien_state.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-25T18:10:16.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "runBot.py",
+              "DocumentMoniker": "C:\\Users\\trinh\\Desktop\\bot\\runBot.py",
+              "RelativeDocumentMoniker": "runBot.py",
+              "ToolTip": "C:\\Users\\trinh\\Desktop\\bot\\runBot.py",
+              "RelativeToolTip": "runBot.py",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAQwGsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-08-25T18:04:35.86Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

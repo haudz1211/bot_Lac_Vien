@@ -1,0 +1,63 @@
+==================================================
+1 TRẬN
+==================================================
+
+[TITLE]
+⚔️ Bang Chiến tuần này - 1 TRẬN
+
+[DESCRIPTION]
+🏆 Tuần này bang có 1 trận Bang Chiến.
+
+💀 Anh em cố gắng sắp xếp thời gian tham gia
+để đảm bảo đủ người.
+
+⏰ Hạn đăng ký: sau 72 giờ
+
+🙏 MONG TẤT CẢ ANH EM SẮP XẾP THAM GIA!
+
+[QUESTION]
+Bạn có tham gia Bang Chiến tuần này
+(1 trận) không?
+
+[JOIN]
+Có
+
+[NOT_JOIN]
+Không
+
+[DURATION]
+72
+
+
+==================================================
+2 TRẬN
+==================================================
+
+[TITLE]
+⚔️⚔️⚔️ Thứ 7 - 2 TRẬN
+
+[DESCRIPTION]
+🔴 ĐÂY LÀ TUẦN QUAN TRỌNG!
+
+💀 Kết quả 2 trận quyết định
+bang THĂNG HẠNG hay XUỐNG HẠNG!
+
+💀 Thiếu người = Thua = XUỐNG HẠNG
+= ảnh hưởng CẢ BANG!
+
+⏰ Hạn đăng ký: sau 72 giờ
+
+🙏 MONG TẤT CẢ ANH EM SẮP XẾP THAM GIA!
+
+[QUESTION]
+Bạn có tham gia Bang Chiến Thứ 7
+(2 trận) không?
+
+[JOIN]
+Có
+
+[NOT_JOIN]
+Không
+
+[DURATION]
+72
